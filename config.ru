@@ -1,2 +1,2 @@
-require "./coffee_match"
+require "./todo"
 run Sinatra::Application
